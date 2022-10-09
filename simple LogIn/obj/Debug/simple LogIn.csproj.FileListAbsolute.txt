@@ -1,0 +1,13 @@
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\bin\Debug\simple LogIn.exe.config
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\bin\Debug\simple LogIn.exe
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\bin\Debug\simple LogIn.pdb
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple LogIn.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple LogIn.csproj.SuggestedBindingRedirects.cache
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple_LogIn.Form1.resources
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple_LogIn.Properties.Resources.resources
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple LogIn.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple LogIn.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple LogIn.exe
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple LogIn.pdb
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple_LogIn.changeP.resources
+C:\Users\marziyeh\source\repos\simple LogIn\simple LogIn\obj\Debug\simple_LogIn.forget.resources

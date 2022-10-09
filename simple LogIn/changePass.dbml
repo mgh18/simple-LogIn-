@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="crudTest" Class="changePassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-PPIILUB;Initial Catalog=crudTest;Integrated Security=True" SettingsObjectName="simple_LogIn.Properties.Settings" SettingsPropertyName="crudTestConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_manager" Member="tbl_managers">
+    <Type Name="tbl_manager">
+      <Column Name="username" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

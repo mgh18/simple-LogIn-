@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="changePass">
+  <DataContextMoniker Name="/changePassDataContext" />
+  <nestedChildShapes>
+    <classShape Id="bf007b4b-f2c2-446f-81f1-354d5113e63a" absoluteBounds="1, 1, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/changePassDataContext/tbl_manager" />
+      <nestedChildShapes>
+        <elementListCompartment Id="14327e19-bb8c-4273-8e20-23798ad95d32" absoluteBounds="1.0150000000000001, 1.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
